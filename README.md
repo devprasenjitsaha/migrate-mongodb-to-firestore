@@ -1,6 +1,7 @@
 # migrate-mongodb-to-firestore
-
 A shell script file with node scripts to migrate MongoDB collections into the cloud firestore.
+
+![MongoDB Migration](https://user-images.githubusercontent.com/49550690/80414979-77ff4200-88ef-11ea-988a-bd1c6d2777d9.jpg)
 
 # Installation
 
