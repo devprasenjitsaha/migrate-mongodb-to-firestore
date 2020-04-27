@@ -18,38 +18,38 @@ Install the below dependencies modules first (if not installed).
 
 Collection: `student`
 ```json
+
 {
-  {
-    "firstName": "Prasenjit",
-    "lastName": "Saha",
-    "role": "student",
-    "studentId": 001
-  },
-  {
-    "firstName": "Amit Kr",
-    "lastName": "Shil",
-    "role": "student",
-    "studentId": 002
-  }
+  "firstName": "Prasenjit",
+  "lastName": "Saha",
+  "role": "student",
+  "studentId": 001
+},
+{
+  "firstName": "Amit Kr",
+  "lastName": "Shil",
+  "role": "student",
+  "studentId": 002
 }
+
 ```
 
 Collection: `teacher`
 ```json
+
 {
-  {
-    "firstName": "Ranit",
-    "lastName": "Das",
-    "role": "teacher",
-    "teacherId": 001
-  },
-  {
-    "firstName": "Goutam",
-    "lastName": "Singha",
-    "role": "teacher",
-    "teacherId": 002
-  }
+  "firstName": "Ranit",
+  "lastName": "Das",
+  "role": "teacher",
+  "teacherId": 001
+},
+{
+  "firstName": "Goutam",
+  "lastName": "Singha",
+  "role": "teacher",
+  "teacherId": 002
 }
+
 ```
 
 ## **Step-3**
